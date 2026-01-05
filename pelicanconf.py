@@ -1,5 +1,5 @@
 AUTHOR = 'Areeb Saeed'
-SITENAME = 'Pelican Site'
+SITENAME = 'Ares'
 SITEURL = ""
 
 PATH = "content"
