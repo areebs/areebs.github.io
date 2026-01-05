@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelican Site</title><link href="/" rel="alternate"/><link href="feeds/all.atom.xml" rel="self"/><id>/</id><updated>2025-12-31T14:30:00+11:00</updated><entry><title>My First Blog Post</title><link href="my-first-post.html" rel="alternate"/><published>2025-12-31T14:30:00+11:00</published><updated>2025-12-31T14:30:00+11:00</updated><author><name>Areeb Saeed</name></author><id>tag:None,2025-12-31:my-first-post.html</id><summary type="html">&lt;p&gt;This is a short description of my first post hosted on GitHub Pages.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Welcome to my new blog!&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ares</title><link href="/" rel="alternate"/><link href="feeds/all.atom.xml" rel="self"/><id>/</id><updated>2026-01-05T21:33:00+11:00</updated><entry><title>My First Blog Post</title><link href="my-first-post.html" rel="alternate"/><published>2026-01-05T21:33:00+11:00</published><updated>2026-01-05T21:33:00+11:00</updated><author><name>Areeb Saeed</name></author><id>tag:None,2026-01-05:my-first-post.html</id><summary type="html">&lt;p&gt;This is a short description of my first post hosted on GitHub Pages.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Welcome to my new blog!&lt;/h2&gt;
 &lt;p&gt;This post was written in &lt;strong&gt;Markdown&lt;/strong&gt; and deployed automatically using &lt;strong&gt;GitHub Actions&lt;/strong&gt;. &lt;/p&gt;
 &lt;h3&gt;Why I built this&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;To learn Python automation.&lt;/li&gt;
 &lt;li&gt;To have a central place for my projects.&lt;/li&gt;
-&lt;li&gt;Because hosting is fun!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I can even include code snippets easily:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;hello_world&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
-    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Hello from my Pelican blog!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="Tech"/><category term="python"/><category term="raspberrypi"/><category term="blogging"/></entry></feed>
+&lt;/ol&gt;</content><category term="Tech"/><category term="python"/><category term="blogging"/></entry></feed>
